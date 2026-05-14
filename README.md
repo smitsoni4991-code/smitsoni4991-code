@@ -11,7 +11,7 @@ I don’t just find bugs; I build engineering cultures where quality is architec
 ## 🚀 Key Highlights
 *   🎯 **Team Leadership:** Directing cross-functional SDET teams & scaling enterprise automation.
 *   🤖 **Shift-Left & CI/CD:** Integrating tests into pipelines, gating PRs, & AI-assisted generation.
-*   📊 **Data Quality Engineering:** Validating massive datasets & Tableau dashboards with Automation tool called Wiiisdom Ops and SQL.
+*   📊 **Data Quality Engineering:** Validating massive datasets & Tableau dashboards and SQL.
 *   🏢 **Business Impact:** Safeguarding telecom/healthcare revenue & driving DORA metrics.
 *   📈 **Measurable Results:** 35% Defect Leakage Reduced, 200+ Defects Caught Pre-Release, 21+ Components Led.
 ---
