@@ -4,7 +4,7 @@
 
 # Hi there, I'm Smit Soni 👋
 
-### Quality Engineering Leader | Full-Stack Test Strategy (Web, Mobile, Data/BI)
+### Quality Engineering Leader | Full-Stack Test Strategy (AI Driven Testing, Web/Mobile, Data/Tableau)
 
 I don’t just find bugs; I build engineering cultures where quality is architected from day one. With 7+ years of experience across Telecom, Healthcare, and Retail, I specialize in transforming traditional QA processes into high-velocity, shift-left automation pipelines. 
 
