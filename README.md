@@ -1,72 +1,61 @@
-<h1 align="center">Quality Engineering Leader</h1>
+<!--
+**smitsoni4991-code/smitsoni4991-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<p align="center">
-  <b>Architecting Full-Stack Quality, Data Integrity, and CI/CD Pipelines 🚀</b>
-</p>
+# Hi there, I'm Smit Soni 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/smitsoni1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://smits-portfolio-lilac.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+### Quality Engineering Leader | Full-Stack Test Strategy (Web, Mobile, Data/BI)
 
-<br>
+I don’t just find bugs; I build engineering cultures where quality is architected from day one. With 7+ years of experience across Telecom, Healthcare, and Retail, I specialize in transforming traditional QA processes into high-velocity, shift-left automation pipelines. 
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">👨‍💻 About Me</h3>
-      <br>
-      👋 <b>Summary:</b> Quality Engineering Leader with 7+ years accelerating release velocity and scaling full-stack test strategy.<br><br>
-      🎓 <b>Education:</b> M.S. in Project Management & M.S. in Information Technology @ University of the Cumberlands.<br><br>
-      💼 <b>Experience:</b> Leading cross-functional QA teams, automating BI dashboards, and optimizing digital sales flows @ Spectrum.<br><br>
-      🏗️ <b>Architecture:</b> Passionate about Shift-Left Quality, Data Quality Engineering, and AI-Assisted Automation.<br><br>
-      🤝 <b>Community:</b> I love connecting with folks in tech. If you want to chat about QA strategy, test automation, or tech leadership, reach out!
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="center">⚡ Quick Facts</h3>
-      <br>
-<pre>
-const smit = {
-  pronouns: ["He", "Him"],
-  role: "Quality Engineering Leader",
-  skills: ["UI/API", "Data Quality", "CI/CD"],
-  loves: "Clean Architecture ✨",
-  status: "Building robust pipelines!"
-}
-</pre>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">🛠 Tech Stack & Skills</h3>
-
-<p align="center">
-  <b>🏗️ Test Infrastructure</b><br>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <br><br>
-  
-  <b>📊 Data Quality & Cloud</b><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-336791?style=for-the-badge&logo=MSSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <br><br>
-
-  <b>⚡ Release Engineering</b><br>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+*   **Location:** St. Louis, MO
+*   **Portfolio:** [Smit Soni | Quality Engineering Leader](https://smits-portfolio-lilac.vercel.app/)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitsoni4991-code&show_icons=true&theme=tokyonight" alt="Smit's GitHub Stats" />
-</p>
+
+## 🚀 Key Highlights
+*   🎯 **Team Leadership:** Directing cross-functional SDET teams & scaling enterprise automation.
+*   🤖 **Shift-Left & CI/CD:** Integrating tests into pipelines, gating PRs, & AI-assisted generation.
+*   📊 **Data Quality Engineering:** Validating massive datasets & BI dashboards with PySpark & SQL.
+*   🏢 **Business Impact:** Safeguarding telecom/healthcare revenue & driving DORA metrics.
+*   📈 **Measurable Results:** 35% Defect Leakage Reduced, 200+ Defects Caught Pre-Release, 21+ Components Led.
+
+---
+
+## 🛠 Tech Stack
+
+**Test Infrastructure**
+*   Playwright / Selenium | Appium (iOS/Android) | API Automation (Postman/SoapUI) | AI-Assisted Test Gen
+
+**Data Quality**
+*   PySpark | Complex SQL | AWS Data Pipelines | Tableau / Power BI | Wiiisdom Ops
+
+**Release Engineering**
+*   CI/CD Pipelines (GitHub Actions, Jenkins, GitLab CI) | AWS DevOps | Docker | DORA Metrics
+
+---
+
+## 💼 Experience Overview
+
+*   **Sr. Quality Assurance Analyst / QA Lead** @ Spectrum (Jul 2021 — Present)
+    *   *Reduced production defect leakage by 35% for high-volume digital sales and billing flows.*
+*   **User Acceptance Tester** @ State of Oregon (Oct 2020 — Jun 2021)
+    *   *Caught 35+ critical defects prior to go-live in complex healthcare eligibility systems.*
+*   **SQA Analyst** @ Publix Super Markets (Sep 2019 — Sep 2020)
+    *   *Streamlined testing cycles by 15% and improved app usability by 25%.*
+
+---
+
+## 🎓 Education & Certifications
+*   🎓 **M.S. in Project Management** - University of the Cumberlands
+*   🎓 **M.S. in Information Technology** - University of the Cumberlands
+*   🎓 **MBA** - Monroe University
+*   📘 **BCom** - Gujarat University
+*   🏆 **Certifications:** Advanced Testing Practices Using AWS DevOps Tools, Dataiku Core Designer, ISTQB Test Automation Engineer, WebServices/Rest API Testing.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitsoni1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitsoni@email.com)
