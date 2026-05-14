@@ -25,13 +25,13 @@ I don’t just find bugs; I build engineering cultures where quality is architec
 ## 🛠 Tech Stack
 
 **Test Infrastructure**
-*   Playwright / Selenium | Appium (iOS/Android) | API Automation (Postman/SoapUI) | AI-Assisted Test Gen
+*  API Automation (Postman/SoapUI) | AI-Assisted Test Gen
 
 **Data Quality**
-*   PySpark | Complex SQL | AWS Data Pipelines | Tableau / Power BI | Wiiisdom Ops
+* Complex SQL | AWS Data Pipelines | Tableau / Power BI | Wiiisdom Ops
 
 **Release Engineering**
-*   CI/CD Pipelines (GitHub Actions, Jenkins, GitLab CI) | AWS DevOps | Docker | DORA Metrics
+*   CI/CD Pipelines (GitHub Actions, Jenkins, GitLab CI) | AWS DevOps
 
 ---
 
