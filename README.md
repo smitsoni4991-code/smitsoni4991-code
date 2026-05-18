@@ -22,33 +22,59 @@ I don’t just find bugs; I help teams build quality into every stage of deliver
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & QA Leadership Toolkit
 
-### 🧪 Test Management & QA Delivery
+A focused toolkit aligned with **QA Lead, Test Lead, UAT Lead, and Quality Engineering** roles.
+
+### 🧪 QA Delivery & STLC
+
+**Core Testing**  
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2F80ED?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-1F2937?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Leadership & Planning**  
 ![UAT Leadership](https://img.shields.io/badge/UAT%20Leadership-0F766E?style=for-the-badge&logo=googlemeet&logoColor=white)
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-F59E0B?style=for-the-badge&logo=notion&logoColor=white)
 ![AI-Assisted Test Design](https://img.shields.io/badge/AI--Assisted%20Test%20Design-111827?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🔌 API, Data & BI Validation
-![Postman](https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**API Testing**  
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-API%20Validation-6CB33F?style=for-the-badge&logo=swagger&logoColor=white)
+
+**Data & Database Validation**  
 ![SQL](https://img.shields.io/badge/Complex%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Database Validation](https://img.shields.io/badge/Database%20Validation-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS Athena](https://img.shields.io/badge/AWS%20Athena%20%2F%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**BI & Dashboard Testing**  
 ![Tableau](https://img.shields.io/badge/Tableau-BI%20Testing-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Validation-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Wiiisdom Ops](https://img.shields.io/badge/Wiiisdom%20Ops-BI%20Regression-5B21B6?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🚀 Release Quality & Collaboration
+
+**Test & Defect Management**  
 ![Jira](https://img.shields.io/badge/Jira-Defect%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![HP ALM Octane](https://img.shields.io/badge/HP%20ALM%20%2F%20Octane-Test%20Management-111827?style=for-the-badge&logo=hp&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-Test%20Cases-65C179?style=for-the-badge&logo=testrail&logoColor=white)
+
+**Release Readiness**  
 ![Defect Triage](https://img.shields.io/badge/Defect%20Triage-C2410C?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![Release Readiness](https://img.shields.io/badge/Release%20Readiness-047857?style=for-the-badge&logo=rocket&logoColor=white)
 ![Agile Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum%20QA%20Delivery-2563EB?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+### 📌 Quick View
+
+| Area | Strength |
+|---|---|
+| 🧭 QA Leadership | UAT coordination, test planning, stakeholder alignment, QA mentoring |
+| 🧪 Testing Coverage | Manual, functional, regression, web, mobile, enterprise workflows |
+| 🔌 API & Data | Postman, SoapUI, SQL, database validation, AWS Athena / S3 |
+| 📊 BI Validation | Tableau, Power BI, Wiiisdom Ops, dashboard regression checks |
+| 🚀 Release Quality | Defect triage, release readiness, Agile/Scrum delivery, risk-based QA |
 
 ---
 
