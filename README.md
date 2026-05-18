@@ -1,4 +1,4 @@
-# smits-portfolio
+# Smits-portfolio
 <!--
 **smitsoni4991-code/smitsoni4991-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
