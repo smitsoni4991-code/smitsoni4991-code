@@ -6,7 +6,7 @@
 
 ### Quality Engineering Leader | QA Strategy, UAT, Web, Mobile & Data/BI Testing
 
-I don’t just find bugs; I help teams build quality into every stage of delivery. With ~7 years of experience across Telecom, Healthcare, and Retail, I specialize in QA leadership, UAT coordination, risk-based test strategy, API testing, SQL validation, BI/dashboard testing, and release-readiness support.
+I don’t just find bugs; I help teams build quality into every stage of delivery. With 7+ years of experience across Telecom, Healthcare, and Retail, I specialize in QA leadership, UAT coordination, risk-based test strategy, API testing, SQL validation, BI/dashboard testing, and release-readiness support.
 
 *   **Location:** St. Louis, MO
 *   **Portfolio:** [Smit Soni | Quality Engineering Leader](https://smits-portfolio-lilac.vercel.app/)
